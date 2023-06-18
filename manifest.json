@@ -1,5 +1,5 @@
 {
-	"id": "obsidian-postfix-plugin",
+	"id": "postfix",
 	"name": "Postfix Plugin",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
