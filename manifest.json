@@ -1,14 +1,14 @@
 {
 	"id": "postfix",
-	"name": "Postfix Plugin",
-	"version": "1.1.0",
+	"name": "Postfix",
+	"version": "1.1.1",
 	"minAppVersion": "0.15.0",
 	"description": "This plugin provides postfix completions for Obsidian. The built-in completions are provided for markdown.",
 	"author": "Bhagya Nirmaan Silva",
 	"authorUrl": "https://github.com/bhagyas",
 	"fundingUrl": {
 		"Buy me a Coffee": "https://www.buymeacoffee.com/bhagyas",
-		"LinkedIn": "https://linkedin.com/in/bhagyas"
+		"Say Hello on LinkedIn": "https://linkedin.com/in/bhagyas"
 	},
 	"isDesktopOnly": false
 }
