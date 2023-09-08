@@ -4,7 +4,7 @@ import { Plugin } from 'obsidian';
 
 export default class MyPlugin extends Plugin {
   async onload() {
-    console.log('My plugin has loaded!');
+    // console.log('My plugin has loaded!');
 
     const templates = [
       { regex: /(.*)\.###\s+(.*)$/, before: '### ', after: '$1$2' },
@@ -44,7 +44,7 @@ export default class MyPlugin extends Plugin {
   }
 
   onunload() {
-    console.log('My plugin has been unloaded!');
+    // console.log('My plugin has been unloaded!');
     //unhook
 
   }
